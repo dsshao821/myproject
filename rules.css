@@ -1,0 +1,50 @@
+h1
+{
+	color: #fafaaa;
+}
+
+.important
+{
+	font-weight: bold;
+}
+
+body
+{
+	color: #fafaaa;
+	background-color: #5096b4;
+	font-family: Comic Sans, Helvetica, Arial;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+/*
+Text Styling:
+body
+{
+	text-align: left;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 16px;
+	font-family: Helvetica, Arial;
+}
+font-weight: 100-900, normal=400, bold=700
+text-decoration: none or underline (usually)
+font-style: normal or italic
+
+Link Styling:
+a:link			An unvisited link
+a:visited		A visited link
+a:hover			Mouse is hovering
+a:active		On click;
+*/
+
+;
